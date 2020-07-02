@@ -359,7 +359,7 @@ void Routine2(){
   }
   Serial.print("\n");                     // end line
 
-  Serial.print("\n\PAGE MODE\n");  
+  Serial.print("\nPAGE MODE\n");  
   Serial.println("Writing char array to SRAM at address 0.");
   WriteInt(PageMode, 0, data, len);       // Write data to chip at address 0
   Serial.println("done!");
