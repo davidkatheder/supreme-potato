@@ -1,4 +1,4 @@
-# supreme-potato
+# Digital electronics presentation - code samples
 Sketches for using a 23LC1024 SRAM chip with an Arduino Uno  
 
 
