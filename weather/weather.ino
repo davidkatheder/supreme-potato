@@ -45,7 +45,7 @@ const int DHTTYPE = DHT22;
 
 // bool indication measuring loop
 bool MEASURE = true;
-bool syncOnFirstStart = false;
+bool syncOnFirstStart = true;
 
 // current address pointer
 uint32_t address = 0;
