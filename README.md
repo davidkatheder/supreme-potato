@@ -1,6 +1,7 @@
 # Digital electronics presentation - code samples
 Sketches for using a 23LC1024 SRAM chip with an Arduino Uno  
 
+The presentation pdf is encrypted with the well known password from the Digital Electronics Lecture notes.
 
 The sram_basic sketch contains implementations for writing simple c data types to the 23LC1024 SRAM chip.
 
